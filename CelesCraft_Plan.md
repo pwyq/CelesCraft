@@ -48,10 +48,12 @@ Game Manipulation:	- Directoin controls (keyboard inputs)
 Game Performance: 2D / 2.5D / 3D (depends)
 
 Game Possible Endings:
-	- Winning:	-- reaching a certain goal
+	*Winning
+		**reaching a certain goal
 
-	- Losing:	-- run out of resources
-				-- spaceships crashes
+	*Losing
+		**run out of resources
+		**spaceships crashes
 
 Game Resource: (Better restrict to 2-3 resources, such as minearls, money, gas)
 
@@ -59,9 +61,10 @@ Game UI:	// later
 
 Game UX:	// later
 
-Game System:	- Enhancement of Spaceships
-				- Exploration of Planets
-				- Management of Planets
+Game System:
+	*Enhancement of Spaceships
+	*Exploration of Planets
+	*Management of Planets
 
 ********************************
 	 BASIC INFO OF PLANETS
@@ -174,7 +177,7 @@ Notes:
 1. How to label game/app version?
 [Major build number].[Minor build number].[Revision].[Package]
 
-i.e. Version: 1.0.15.2
+	i.e. Version: 1.0.15.2
 
 - Major build number: This indicates a major milestone in the game, increment this when going from beta to release, from release to major updates.
 - Minor build number: Used for feature updates, large bug fixes etc.
