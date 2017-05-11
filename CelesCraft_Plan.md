@@ -2,8 +2,7 @@
 		BASIC INFO
 ********************************
 - Start Date: May 9, 2017
-
-- Game Name:	CelesCraft
+- Game Name: CelesCraft
 - Game Developers: Dawn Cheng, Yanqing (Peter) Wu
 - Game Language: English / Chinese (2 versions maybe)
 - Game Platform: PC (Windows)
@@ -27,7 +26,7 @@ Following is for 3D Render
 		GAME STORY
 ********************************
 
-//later
+do it later
 
 ********************************
 	Game MECHANICS/CONCEPT
@@ -36,18 +35,20 @@ Number of Game player: Single
 
 Game Difficulty: easy / normal / hard / hell mode, etc (by changing the required amount of resources and the frequency of attack of enemies)
 
-Game Enemy: - Unknown Living Creatures
-			- Environmental Activities
+Game Enemy:</br>
+	- Unknown Living Creatures
+	- Environmental Activities
 
 Game Goal: Expand player's territory to reach a certain rate
 
-Game Manipulation:	- Directoin controls (keyboard inputs)
-					- Function controls (keyboard inputs)
-					- Mouse inputs
+Game Manipulation:</br>
+	- Directoin controls (keyboard inputs)
+	- Function controls (keyboard inputs)
+	- Mouse inputs
 
 Game Performance: 2D / 2.5D / 3D (depends)
 
-Game Possible Endings:
+Game Possible Endings:</br>
 	*Winning
 		**reaching a certain goal
 
@@ -57,9 +58,9 @@ Game Possible Endings:
 
 Game Resource: (Better restrict to 2-3 resources, such as minearls, money, gas)
 
-Game UI:	// later
+Game UI:	do it later
 
-Game UX:	// later
+Game UX:	do it later
 
 Game System:
 	*Enhancement of Spaceships
