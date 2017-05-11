@@ -6,22 +6,22 @@
 - Game Developers: Dawn Cheng, Yanqing (Peter) Wu
 - Game Language: English / Chinese (2 versions maybe)
 - Game Platform: PC (Windows)
-- Purpose of making this Game: Lian Shou, Lian Shou, Lian Shou
+- Purpose of making this Game: Lian Shou, ~~Zhuan Qian~~, Lian Shou
 - Programming Language: C++ (mainly)
 
 ********************************
 		NEED TO BE DONE
 ********************************
 
-everthing
+**__everthing__**
 
 ********************************
 		NEED TO LEARN
 ********************************
 Following is for 3D Render
-> 1. https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/
-> 2. https://gamedevelopment.tutsplus.com/tutorials/lets-build-a-3d-graphics-engine-points-vectors-and-basic-concepts--gamedev-8143
-> 3. https://www.reddit.com/r/cpp/comments/3g1pvf/i_want_to_create_a_3d_engine_from_scratch_where/
+> 1. [learning how to write a 3D soft engine from scratch in C#, TypeScript or JavaScript](https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/)
+> 2. [Let's Build a 3D Graphics Engine: Points, Vectors, and Basic Concepts](https://gamedevelopment.tutsplus.com/tutorials/lets-build-a-3d-graphics-engine-points-vectors-and-basic-concepts--gamedev-8143)
+> 3. [Advice - Create a 3D engine from Scratch](https://www.reddit.com/r/cpp/comments/3g1pvf/i_want_to_create_a_3d_engine_from_scratch_where/)
 ********************************
 		GAME STORY
 ********************************
@@ -35,37 +35,36 @@ Number of Game player: Single
 
 Game Difficulty: easy / normal / hard / hell mode, etc (by changing the required amount of resources and the frequency of attack of enemies)
 
-Game Enemy:</br>
-	- Unknown Living Creatures
-	- Environmental Activities
+Game Enemy:
+....- Unknown Living Creatures
+....- Environmental Activities
 
 Game Goal: Expand player's territory to reach a certain rate
 
-Game Manipulation:</br>
-	- Directoin controls (keyboard inputs)
-	- Function controls (keyboard inputs)
-	- Mouse inputs
+Game Manipulation:
+....- Directoin controls (keyboard inputs)
+....- Function controls (keyboard inputs)
+....- Mouse inputs
 
 Game Performance: 2D / 2.5D / 3D (depends)
 
 Game Possible Endings:</br>
-	*Winning
-		**reaching a certain goal
-
-	*Losing
-		**run out of resources
-		**spaceships crashes
+....* Winning
+........** reaching a certain goal
+....* Losing
+........** run out of resources
+........** spaceships crashes
 
 Game Resource: (Better restrict to 2-3 resources, such as minearls, money, gas)
 
-Game UI:	do it later
+Game UI: do it later
 
-Game UX:	do it later
+Game UX: do it later
 
 Game System:
-	*Enhancement of Spaceships
-	*Exploration of Planets
-	*Management of Planets
+----* Enhancement of Spaceships
+----* Exploration of Planets
+----* Management of Planets
 
 ********************************
 	 BASIC INFO OF PLANETS
@@ -178,7 +177,7 @@ Notes:
 1. How to label game/app version?
 [Major build number].[Minor build number].[Revision].[Package]
 
-	i.e. Version: 1.0.15.2
+....i.e. Version: 1.0.15.2
 
 - Major build number: This indicates a major milestone in the game, increment this when going from beta to release, from release to major updates.
 - Minor build number: Used for feature updates, large bug fixes etc.
