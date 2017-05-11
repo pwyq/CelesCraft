@@ -13,7 +13,7 @@
 		NEED TO BE DONE
 ********************************
 
-**__everthing__**
+**_everthing_**
 
 ********************************
 		NEED TO LEARN
@@ -35,25 +35,22 @@ Number of Game player: Single
 
 Game Difficulty: easy / normal / hard / hell mode, etc (by changing the required amount of resources and the frequency of attack of enemies)
 
-Game Enemy:
-+ Unknown Living Creatures
-+ Environmental Activities
+Game Enemy:	+ Unknown Living Creatures
+			+ Environmental Activities
 
 Game Goal: Expand player's territory to reach a certain rate
 
-Game Manipulation:
-+ Directoin controls (keyboard inputs)
-+ Function controls (keyboard inputs)
-+ Mouse inputs
+Game Manipulation:	+ Directoin controls (keyboard inputs)
+					+ Function controls (keyboard inputs)
+					+ Mouse inputs
 
 Game Performance: 2D / 2.5D / 3D (depends, but we want 3D Sandbox Game)
 
-Game Possible Endings:
-+ Winning
-	- reaching a certain goal
-+ Losing
-	- run out of resources
-	- spaceships crashes
+Game Possible Endings:	+ Winning
+							- reaching a certain goal
+						+ Losing
+							- run out of resources
+							- spaceships crashes
 
 Game Resource: (Better restrict to 2-3 resources, such as minearls, money, gas)
 
@@ -61,10 +58,9 @@ Game UI: do it later
 
 Game UX: do it later
 
-Game System:
-+ Enhancement of Spaceships
-+ Exploration of Planets
-+ Management of Planets
+Game System:+ Enhancement of Spaceships
+			+ Exploration of Planets
+			+ Management of Planets
 
 ********************************
 	 BASIC INFO OF PLANETS
