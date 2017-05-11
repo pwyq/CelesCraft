@@ -124,7 +124,7 @@ Notes:
 - Surface Temperature: -178 celsius
 - 0.444 days in Saturn equals 1 Earth day.
 
-**Uranus* - *The Sideways Planet*
+**Uranus** - *The Sideways Planet*
 - Volume: 63.085 x Earth's
 - Mass: 14.536 x Earth's 
 - Density: 0.230 x Earth
@@ -182,5 +182,5 @@ i.e. Version: 1.0.15.2
 - Package: Your code stays the same, external library changes or asset file update.
 
 2. Some notation
-- <!test> 		<== becomes red in Sublime
-- <!-- test --> 	<== becomes green in Sublime
+- `<!test>` 		<== becomes red in Sublime
+- `<!-- test -->` 	<== becomes green in Sublime
