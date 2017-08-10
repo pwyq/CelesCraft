@@ -1,3 +1,7 @@
+[logo]: assets/CelesCraft_logo.png "CelesCraft"
+<!-- Logo Reference-->
+![alt text][logo]
+
 ********************************
 		BASIC INFO
 ********************************
